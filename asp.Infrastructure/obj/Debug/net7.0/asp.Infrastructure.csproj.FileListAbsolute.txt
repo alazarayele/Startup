@@ -1,0 +1,17 @@
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Infrastructure.deps.json
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Infrastructure.runtimeconfig.json
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Infrastructure.dll
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Infrastructure.pdb
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Domain.dll
+C:\Users\A\Documents\Startup\asp.Infrastructure\bin\Debug\net7.0\asp.Domain.pdb
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.AssemblyInfo.cs
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.csproj.CopyComplete
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.dll
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\refint\asp.Infrastructure.dll
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.pdb
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\asp.Infrastructure.genruntimeconfig.cache
+C:\Users\A\Documents\Startup\asp.Infrastructure\obj\Debug\net7.0\ref\asp.Infrastructure.dll

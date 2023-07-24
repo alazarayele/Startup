@@ -1,0 +1,17 @@
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Application.deps.json
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Application.dll
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Application.pdb
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Domain.dll
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Infrastructure.dll
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Infrastructure.pdb
+C:\Users\A\Documents\Startup\asp.Application\bin\Debug\net7.0\asp.Domain.pdb
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.csproj.AssemblyReference.cache
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.AssemblyInfoInputs.cache
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.AssemblyInfo.cs
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.csproj.CopyComplete
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.dll
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\refint\asp.Application.dll
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\asp.Application.pdb
+C:\Users\A\Documents\Startup\asp.Application\obj\Debug\net7.0\ref\asp.Application.dll
